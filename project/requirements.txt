@@ -1,0 +1,10 @@
+ipykernel
+ipywidgets
+numpy
+xlrd
+pandas
+scikit-learn
+matplotlib
+statsmodels
+xgboost
+shap
